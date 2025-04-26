@@ -1,6 +1,9 @@
 Mood-Based Music Recommendation Application
+
 📚 About
-The Mood-Based Music Recommendation Application is a simple Java-based project that recommends songs based on the user's mood. It provides a personalized playlist through a smooth, user-friendly graphical interface built using Java AWT.
+
+The Mood-Based Music Recommendation Application is a simple Java-based project that recommends songs based on the user's mood.
+It provides a personalized playlist through a smooth, user-friendly graphical interface built using Java AWT.
 
 🎯 Key Features
 Mood selection through buttons
